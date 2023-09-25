@@ -1,0 +1,17 @@
+D:\Baitapchung\CongNghePhanMem\Phone.Data\bin\Debug\net6.0\Phone.Data.deps.json
+D:\Baitapchung\CongNghePhanMem\Phone.Data\bin\Debug\net6.0\Phone.Data.runtimeconfig.json
+D:\Baitapchung\CongNghePhanMem\Phone.Data\bin\Debug\net6.0\Phone.Data.dll
+D:\Baitapchung\CongNghePhanMem\Phone.Data\bin\Debug\net6.0\Phone.Data.pdb
+D:\Baitapchung\CongNghePhanMem\Phone.Data\bin\Debug\net6.0\Phone.Models.dll
+D:\Baitapchung\CongNghePhanMem\Phone.Data\bin\Debug\net6.0\Phone.Models.pdb
+D:\Baitapchung\CongNghePhanMem\Phone.Data\obj\Debug\net6.0\Phone.Data.csproj.AssemblyReference.cache
+D:\Baitapchung\CongNghePhanMem\Phone.Data\obj\Debug\net6.0\Phone.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Baitapchung\CongNghePhanMem\Phone.Data\obj\Debug\net6.0\Phone.Data.AssemblyInfoInputs.cache
+D:\Baitapchung\CongNghePhanMem\Phone.Data\obj\Debug\net6.0\Phone.Data.AssemblyInfo.cs
+D:\Baitapchung\CongNghePhanMem\Phone.Data\obj\Debug\net6.0\Phone.Data.csproj.CoreCompileInputs.cache
+D:\Baitapchung\CongNghePhanMem\Phone.Data\obj\Debug\net6.0\Phone.Data.csproj.CopyComplete
+D:\Baitapchung\CongNghePhanMem\Phone.Data\obj\Debug\net6.0\Phone.Data.dll
+D:\Baitapchung\CongNghePhanMem\Phone.Data\obj\Debug\net6.0\refint\Phone.Data.dll
+D:\Baitapchung\CongNghePhanMem\Phone.Data\obj\Debug\net6.0\Phone.Data.pdb
+D:\Baitapchung\CongNghePhanMem\Phone.Data\obj\Debug\net6.0\Phone.Data.genruntimeconfig.cache
+D:\Baitapchung\CongNghePhanMem\Phone.Data\obj\Debug\net6.0\ref\Phone.Data.dll

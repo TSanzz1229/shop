@@ -1,0 +1,12 @@
+D:\Baitapchung\CongNghePhanMem\Phone.Models\bin\Debug\net6.0\Phone.Models.deps.json
+D:\Baitapchung\CongNghePhanMem\Phone.Models\bin\Debug\net6.0\Phone.Models.dll
+D:\Baitapchung\CongNghePhanMem\Phone.Models\bin\Debug\net6.0\Phone.Models.pdb
+D:\Baitapchung\CongNghePhanMem\Phone.Models\obj\Debug\net6.0\Phone.Models.csproj.AssemblyReference.cache
+D:\Baitapchung\CongNghePhanMem\Phone.Models\obj\Debug\net6.0\Phone.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Baitapchung\CongNghePhanMem\Phone.Models\obj\Debug\net6.0\Phone.Models.AssemblyInfoInputs.cache
+D:\Baitapchung\CongNghePhanMem\Phone.Models\obj\Debug\net6.0\Phone.Models.AssemblyInfo.cs
+D:\Baitapchung\CongNghePhanMem\Phone.Models\obj\Debug\net6.0\Phone.Models.csproj.CoreCompileInputs.cache
+D:\Baitapchung\CongNghePhanMem\Phone.Models\obj\Debug\net6.0\Phone.Models.dll
+D:\Baitapchung\CongNghePhanMem\Phone.Models\obj\Debug\net6.0\refint\Phone.Models.dll
+D:\Baitapchung\CongNghePhanMem\Phone.Models\obj\Debug\net6.0\Phone.Models.pdb
+D:\Baitapchung\CongNghePhanMem\Phone.Models\obj\Debug\net6.0\ref\Phone.Models.dll
